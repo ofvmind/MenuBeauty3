@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/MenuBeauty3/static/css/main.6bc350d6.css",
+    "main.js": "/MenuBeauty3/static/js/main.9d4926c2.js",
+    "static/js/633.937cc136.chunk.js": "/MenuBeauty3/static/js/633.937cc136.chunk.js",
+    "static/media/wineKabarne.png": "/MenuBeauty3/static/media/wineKabarne.c0d7b0233f927025d94a.png",
+    "static/media/pizzaGAVAY.webp": "/MenuBeauty3/static/media/pizzaGAVAY.deaf3e6cdd5b62fa7255.webp",
+    "static/media/juiceApple.jpg": "/MenuBeauty3/static/media/juiceApple.93ceb3ccfd5384fb37d6.jpg",
+    "static/media/sexOn.webp": "/MenuBeauty3/static/media/sexOn.e1eefccb6da979fc9ed6.webp",
+    "static/media/viskiJack.jpg": "/MenuBeauty3/static/media/viskiJack.0f5ef3f3445d57a1bff7.jpg",
+    "static/media/viskiJameson.jpg": "/MenuBeauty3/static/media/viskiJameson.3dbd707e649755bd09a1.jpg",
+    "static/media/vodkaCosack.jpg": "/MenuBeauty3/static/media/vodkaCosack.d824f4f1f9b873f7527c.jpg",
+    "static/media/2.webp": "/MenuBeauty3/static/media/2.037a821a46dc1966a606.webp",
+    "static/media/1.jpg": "/MenuBeauty3/static/media/1.c806ffbb4da5c3bc1bdc.jpg",
+    "static/media/pineappleJuice.jpg": "/MenuBeauty3/static/media/pineappleJuice.7da2f963b9231dc608e4.jpg",
+    "static/media/margaret.jpeg": "/MenuBeauty3/static/media/margaret.9d118f4dd613aa9a812f.jpeg",
+    "static/media/orangeJuice.jpg": "/MenuBeauty3/static/media/orangeJuice.1f297169c3da06bf04d6.jpg",
+    "static/media/mojito.jpg": "/MenuBeauty3/static/media/mojito.c3c0fc0357eb4c5aaecb.jpg",
+    "static/media/wineBolgtad.jpg": "/MenuBeauty3/static/media/wineBolgtad.7cbafc4401d400144879.jpg",
+    "static/media/mimoza.jpg": "/MenuBeauty3/static/media/mimoza.b94144701e72fd7fb806.jpg",
+    "static/media/aparel.jpg": "/MenuBeauty3/static/media/aparel.9a90006dd78a02f6f37c.jpg",
+    "static/media/BBQ.jpg": "/MenuBeauty3/static/media/BBQ.9facf4584135512575e6.jpg",
+    "static/media/3.jpg": "/MenuBeauty3/static/media/3.71adef76a369578327ef.jpg",
+    "static/media/follow.png": "/MenuBeauty3/static/media/follow.cfa06dc179294854ef0c.png",
+    "static/media/pizzaMARG.jpg": "/MenuBeauty3/static/media/pizzaMARG.dc6e791bcf3f1f7c6ce3.jpg",
+    "static/media/pizzaCHEEZE.jpg": "/MenuBeauty3/static/media/pizzaCHEEZE.11958f807ddb3c6f071a.jpg",
+    "static/media/search.svg": "/MenuBeauty3/static/media/search.5a39e62ca52f739315aeaf5f89e603d1.svg",
+    "static/media/favos.svg": "/MenuBeauty3/static/media/favos.10b326ff9744039077973f2c925dd01f.svg",
+    "index.html": "/MenuBeauty3/index.html",
+    "static/media/burger.svg": "/MenuBeauty3/static/media/burger.e23068e6b729c0da0ab4dfda739bbe51.svg",
+    "main.6bc350d6.css.map": "/MenuBeauty3/static/css/main.6bc350d6.css.map",
+    "main.9d4926c2.js.map": "/MenuBeauty3/static/js/main.9d4926c2.js.map",
+    "633.937cc136.chunk.js.map": "/MenuBeauty3/static/js/633.937cc136.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bc350d6.css",
+    "static/js/main.9d4926c2.js"
+  ]
+}
