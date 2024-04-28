@@ -1,0 +1,32 @@
+.tabs {
+  background: var(--bg-color-second);
+  display: flex;
+  align-items: center;
+}
+
+.tab:nth-child(1) {
+  border-right: 0.15px solid var(--font-color-second);
+}
+.tab:nth-child(2) {
+  border-left: 0.15px solid var(--font-color-second);
+}
+.tab {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: var(--border);
+    border-bottom: var(--border);
+    padding: 4%;
+    .star {
+      width: 24px;
+      height: 22px;
+    }
+    .p {
+      text-decoration: none;
+      color: var(--font-color-main);
+      margin-left: 3.5%;
+      font-size: 18px;
+      font-weight: 500;
+    }
+}

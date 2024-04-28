@@ -1,0 +1,8 @@
+.icon {
+  width: 40px;
+  height: 40px;
+  padding: 7px;
+  border-radius: var(--default-border-radius);
+  background-color: var(--bg-color-second);
+  border: var(--border);
+}
