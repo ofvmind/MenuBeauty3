@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className={cl.footerRow}>
       <div className={cl.dev}>
-        <p>Powered By MenuStore</p>
+        <p>Powered By DevTeam</p>
       </div>
       <div className={cl.info}>
         <p className={cl.title}>Choko 2024</p>
